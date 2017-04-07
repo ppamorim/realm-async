@@ -2,11 +2,9 @@ package async.realm.ppamorim.com.realmasync
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Handler
 import com.github.ppamorim.threadexecutor.Interactor
 import com.github.ppamorim.threadexecutor.InteractorExecutor
 import com.github.ppamorim.threadexecutor.MainThread
-import com.github.ppamorim.threadexecutor.ThreadExecutor
 import io.realm.Realm
 import javax.inject.Inject
 
